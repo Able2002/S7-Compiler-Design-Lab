@@ -1,0 +1,8 @@
+Line no. 	 Token no. 		 Token 		 Lexeme
+
+      1		       0		 Identifier	 position
+      1		       1		 Identifier	 initial
+      1		       2		 Operator	       +
+      1		       3		 Identifier	    rate
+      1		       4		 Digit		       6
+      1		       5		 Digit		       0
